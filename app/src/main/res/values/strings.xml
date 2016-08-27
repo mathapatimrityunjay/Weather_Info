@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherInfo</string>
+    <string name="facebook_app_id">1759222701011798</string>
+    <string name="weather_description">Weather Description</string>
+    <string name="temprature">Temperature</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="weatherbtn">Get Weather Report</string>
+    <string name="btnGo">Go</string>
+    <string name="city">City</string>
+</resources>
